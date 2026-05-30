@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=CyberSecurity+%7C+A.I+Engineer;Always+Learning+New+Things;Building+Secure+Systems;Learning+Game+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Game+Developer+%7C+A.I+Engineer;Always+Learning+New+Things;Building+Secure+Systems;Learning+Game+Development" />
 </h3>
 
 <p align="center">
