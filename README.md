@@ -40,7 +40,7 @@
 - 🤖 Exploring Artificial Intelligence
 - 🌐 Love Networking & System Architecture
 - 🧠 Always learning something new
-
+- 🎮 Currently interested in game development 
 ---
 
 ### ☕ Support Me
